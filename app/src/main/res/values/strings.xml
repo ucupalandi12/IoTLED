@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IoT LED</string>
+    <string name="raspberry_pi_ip">IP Address Pi</string>
+    <string name="port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="led_1">Led 1</string>
+    <string name="led_2">Led 2</string>
+    <string name="led_3">Led 3</string>
+    <string name="EncryptKey">HG58YZ3CR9</string>
+    <string name="EncryptKey2">HG58YZ3CR9</string>
+    <color name="myColor">#F5F5F5</color>
+
+</resources>
